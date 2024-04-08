@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Thoriq
+- 👀 I’m i'm novice programmer
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
